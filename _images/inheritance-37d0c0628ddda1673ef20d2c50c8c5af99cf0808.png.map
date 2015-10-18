@@ -1,0 +1,4 @@
+<map id="inheritance76eca50020" name="inheritance76eca50020">
+<area shape="rect" id="node1" href="#nipy.algorithms.graph.graph.Graph" title="Basic topological (non&#45;weighted) directed Graph class" alt="" coords="5,5,150,32"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.graph.graph.WeightedGraph" title="Basic weighted, directed graph class" alt="" coords="198,5,402,32"/>
+</map>

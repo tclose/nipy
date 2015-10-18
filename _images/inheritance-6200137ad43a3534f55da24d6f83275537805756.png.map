@@ -1,0 +1,7 @@
+<map id="inheritanceecdc83e39f" name="inheritanceecdc83e39f">
+<area shape="rect" id="node1" title="A class used to check the whether the actual output from a doctest" alt="" coords="4,40,124,58"/>
+<area shape="rect" id="node2" title="Base class for nose plugins. It&#39;s recommended but not *necessary* to" alt="" coords="12,4,115,22"/>
+<area shape="rect" id="node3" title="Activate doctest plugin to find and run doctests in non&#45;test modules." alt="" coords="198,4,324,22"/>
+<area shape="rect" id="node4" href="#nipy.testing.doctester.NipyDoctest" title="testing.doctester.NipyDoctest" alt="" coords="615,4,764,22"/>
+<area shape="rect" id="node6" href="#nipy.testing.doctester.NipyOutputChecker" title="testing.doctester.NipyOutputChecker" alt="" coords="397,40,581,58"/>
+</map>

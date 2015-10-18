@@ -1,0 +1,15 @@
+<map id="inheritance17b0564be0" name="inheritance17b0564be0">
+<area shape="rect" id="node1" title="A one&#45;dimensional polynomial class." alt="" coords="24,176,160,198"/>
+<area shape="rect" id="node6" href="#nipy.algorithms.statistics.rft.ECquasi" title="Polynomials with premultiplier" alt="" coords="220,176,347,198"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.statistics.rft.ChiBarSquared" title="statistics.rft.ChiBarSquared" alt="" coords="599,5,763,27"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.statistics.rft.ChiSquared" title="EC densities for a Chi&#45;Squared(n) random field." alt="" coords="399,5,547,27"/>
+<area shape="rect" id="node4" href="#nipy.algorithms.statistics.rft.ECcone" title="EC approximation to supremum distribution of var==1 Gaussian process" alt="" coords="221,133,346,155"/>
+<area shape="rect" id="node7" href="#nipy.algorithms.statistics.rft.FStat" title="EC densities for a F random field." alt="" coords="417,47,529,70"/>
+<area shape="rect" id="node8" href="#nipy.algorithms.statistics.rft.Hotelling" title="Hotelling&#39;s T^2" alt="" coords="406,90,540,112"/>
+<area shape="rect" id="node9" href="#nipy.algorithms.statistics.rft.MultilinearForm" title="Maximize a multivariate Gaussian form" alt="" coords="388,133,558,155"/>
+<area shape="rect" id="node10" href="#nipy.algorithms.statistics.rft.OneSidedF" title="EC densities for one&#45;sided F statistic" alt="" coords="402,176,544,198"/>
+<area shape="rect" id="node11" href="#nipy.algorithms.statistics.rft.Roy" title="Roy&#39;s maximum root" alt="" coords="421,218,525,241"/>
+<area shape="rect" id="node12" href="#nipy.algorithms.statistics.rft.TStat" title="EC densities for a t random field." alt="" coords="417,261,529,283"/>
+<area shape="rect" id="node5" href="#nipy.algorithms.statistics.rft.IntrinsicVolumes" title="Compute intrinsic volumes of products of sets" alt="" coords="5,133,179,155"/>
+<area shape="rect" id="node13" href="#nipy.algorithms.statistics.rft.fnsum" title="statistics.rft.fnsum" alt="" coords="32,90,151,112"/>
+</map>

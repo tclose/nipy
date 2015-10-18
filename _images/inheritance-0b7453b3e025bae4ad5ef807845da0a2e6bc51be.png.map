@@ -1,0 +1,5 @@
+<map id="inheritancecb2e94d2fe" name="inheritancecb2e94d2fe">
+<area shape="rect" id="node1" href="#nipy.algorithms.statistics.models.family.varfuncs.Binomial" title="Binomial variance function" alt="" coords="33,107,212,133"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.statistics.models.family.varfuncs.Power" title="Power variance function:" alt="" coords="41,56,203,82"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.statistics.models.family.varfuncs.VarianceFunction" title="Variance function that relates the variance of a random variable" alt="" coords="5,5,239,32"/>
+</map>

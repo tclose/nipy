@@ -1,0 +1,5 @@
+<map id="inheritanced40e7b7630" name="inheritanced40e7b7630">
+<area shape="rect" id="node1" href="#nipy.algorithms.clustering.ggmixture.GGGM" title="The basic one dimensional Gamma&#45;Gaussian&#45;Gamma Mixture estimation" alt="" coords="10,107,210,133"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.clustering.ggmixture.GGM" title="This is the basic one dimensional Gaussian&#45;Gamma Mixture estimation class" alt="" coords="15,56,205,82"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.clustering.ggmixture.Gamma" title="Basic one dimensional Gaussian&#45;Gamma Mixture estimation class" alt="" coords="5,5,214,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="inheritance317d710708" name="inheritance317d710708">
+<area shape="rect" id="node1" href="nipy.algorithms.clustering.bgmm.html#nipy.algorithms.clustering.bgmm.BGMM" title="This class implements Bayesian GMMs" alt="" coords="198,5,361,30"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.clustering.imm.IMM" title="The class implements Infinite Gaussian Mixture model" alt="" coords="405,5,544,30"/>
+<area shape="rect" id="node2" href="nipy.algorithms.clustering.gmm.html#nipy.algorithms.clustering.gmm.GMM" title="Standard GMM." alt="" coords="5,5,153,30"/>
+<area shape="rect" id="node4" href="#nipy.algorithms.clustering.imm.MixedIMM" title="Particular IMM with an additional null class." alt="" coords="589,5,763,30"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="inheritancea3c478ddbb" name="inheritancea3c478ddbb">
+<area shape="rect" id="node1" href="#nipy.algorithms.statistics.models.model.FContrastResults" title="Results from an F contrast of coefficients in a parametric model." alt="" coords="28,157,251,184"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.statistics.models.model.LikelihoodModel" title="models.model.LikelihoodModel" alt="" coords="321,107,544,133"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.statistics.models.model.Model" title="A (predictive) statistical model." alt="" coords="61,107,217,133"/>
+<area shape="rect" id="node4" href="#nipy.algorithms.statistics.models.model.LikelihoodModelResults" title="Class to contain results from likelihood models" alt="" coords="5,56,273,82"/>
+<area shape="rect" id="node5" href="#nipy.algorithms.statistics.models.model.TContrastResults" title="Results from a t contrast of coefficients in a parametric model." alt="" coords="27,5,252,32"/>
+</map>

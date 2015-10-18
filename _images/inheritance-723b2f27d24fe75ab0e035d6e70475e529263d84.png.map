@@ -1,0 +1,6 @@
+<map id="inheritance307637969f" name="inheritance307637969f">
+<area shape="rect" id="node1" href="#nipy.labs.spatial_models.discrete_domain.DiscreteDomain" title="Descriptor of a certain domain that consists of discrete elements that" alt="" coords="4,39,233,57"/>
+<area shape="rect" id="node4" href="#nipy.labs.spatial_models.discrete_domain.StructuredDomain" title="Besides DiscreteDomain attributed, StructuredDomain has a topology," alt="" coords="266,39,506,57"/>
+<area shape="rect" id="node2" href="#nipy.labs.spatial_models.discrete_domain.MeshDomain" title="temporary class to handle meshes" alt="" coords="10,4,226,22"/>
+<area shape="rect" id="node3" href="#nipy.labs.spatial_models.discrete_domain.NDGridDomain" title="Particular instance of StructuredDomain, that receives" alt="" coords="539,39,764,57"/>
+</map>

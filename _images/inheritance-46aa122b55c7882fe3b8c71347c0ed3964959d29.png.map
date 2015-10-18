@@ -1,0 +1,5 @@
+<map id="inheritance6888041a7d" name="inheritance6888041a7d">
+<area shape="rect" id="node1" href="#nipy.modalities.fmri.fmristat.model.AR1" title="Second pass through fmri_image." alt="" coords="54,107,201,133"/>
+<area shape="rect" id="node2" href="#nipy.modalities.fmri.fmristat.model.ModelOutputImage" title="These images have their values filled in as the model is fit, and" alt="" coords="5,56,250,82"/>
+<area shape="rect" id="node3" href="#nipy.modalities.fmri.fmristat.model.OLS" title="First pass through fmri_image." alt="" coords="55,5,200,32"/>
+</map>

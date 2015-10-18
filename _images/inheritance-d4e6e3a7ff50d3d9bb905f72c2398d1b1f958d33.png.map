@@ -1,0 +1,8 @@
+<map id="inheritancead4ca599ab" name="inheritancead4ca599ab">
+<area shape="rect" id="node1" href="#nipy.algorithms.statistics.models.family.links.CDFLink" title="The use the CDF of a scipy.stats distribution as a link function:" alt="" coords="366,5,518,32"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.statistics.models.family.links.Logit" title="The logit transform as a link function:" alt="" coords="182,31,313,57"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.statistics.models.family.links.CLogLog" title="The complementary log&#45;log transform as a link function:" alt="" coords="365,56,520,82"/>
+<area shape="rect" id="node4" href="#nipy.algorithms.statistics.models.family.links.Link" title="A generic link function for one&#45;parameter exponential" alt="" coords="5,81,131,108"/>
+<area shape="rect" id="node5" href="#nipy.algorithms.statistics.models.family.links.Log" title="The log transform as a link function:" alt="" coords="187,81,309,108"/>
+<area shape="rect" id="node6" href="#nipy.algorithms.statistics.models.family.links.Power" title="The power transform as a link function:" alt="" coords="179,132,317,158"/>
+</map>

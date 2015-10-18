@@ -1,0 +1,11 @@
+<map id="inheritanced9abb88a7c" name="inheritanced9abb88a7c">
+<area shape="rect" id="node1" href="#nipy.algorithms.registration.similarity_measures.CorrelationCoefficient" title="Use a bivariate Gaussian as a distribution model" alt="" coords="393,5,730,29"/>
+<area shape="rect" id="node2" href="#nipy.algorithms.registration.similarity_measures.SimilarityMeasure" title="Template class" alt="" coords="5,165,316,189"/>
+<area shape="rect" id="node3" href="#nipy.algorithms.registration.similarity_measures.CorrelationRatio" title="Use a nonlinear regression model with Gaussian errors as a" alt="" coords="409,51,713,75"/>
+<area shape="rect" id="node4" href="#nipy.algorithms.registration.similarity_measures.CorrelationRatioL1" title="Use a nonlinear regression model with Laplace distributed errors" alt="" coords="402,97,720,120"/>
+<area shape="rect" id="node5" href="#nipy.algorithms.registration.similarity_measures.DiscreteParzenMutualInformation" title="Use Parzen windowing in the discrete case to estimate the" alt="" coords="359,142,763,166"/>
+<area shape="rect" id="node6" href="#nipy.algorithms.registration.similarity_measures.MutualInformation" title="Use the normalized joint histogram as a distribution model" alt="" coords="403,188,720,212"/>
+<area shape="rect" id="node7" href="#nipy.algorithms.registration.similarity_measures.NormalizedMutualInformation" title="NMI = 2*(1 &#45; H(I,J)/[H(I)+H(J)])" alt="" coords="369,234,754,258"/>
+<area shape="rect" id="node8" href="#nipy.algorithms.registration.similarity_measures.ParzenMutualInformation" title="Use Parzen windowing to estimate the distribution model" alt="" coords="383,280,740,304"/>
+<area shape="rect" id="node9" href="#nipy.algorithms.registration.similarity_measures.SupervisedLikelihoodRatio" title="Assume a joint intensity distribution model is given by self.dist" alt="" coords="381,326,742,350"/>
+</map>

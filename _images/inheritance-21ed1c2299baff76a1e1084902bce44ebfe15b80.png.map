@@ -1,0 +1,6 @@
+<map id="inheritance1a5d4ec8c5" name="inheritance1a5d4ec8c5">
+<area shape="rect" id="node1" href="#nipy.algorithms.clustering.hierarchical_clustering.WeightedForest" title="This is a weighted Forest structure, i.e. a tree" alt="" coords="501,4,764,25"/>
+<area shape="rect" id="node2" href="nipy.algorithms.graph.forest.html#nipy.algorithms.graph.forest.Forest" title="Forest structure, i.e. a set of trees" alt="" coords="351,4,463,25"/>
+<area shape="rect" id="node3" href="nipy.algorithms.graph.graph.html#nipy.algorithms.graph.graph.WeightedGraph" title="Basic weighted, directed graph class" alt="" coords="154,4,314,25"/>
+<area shape="rect" id="node4" href="nipy.algorithms.graph.graph.html#nipy.algorithms.graph.graph.Graph" title="Basic topological (non&#45;weighted) directed Graph class" alt="" coords="4,4,117,25"/>
+</map>

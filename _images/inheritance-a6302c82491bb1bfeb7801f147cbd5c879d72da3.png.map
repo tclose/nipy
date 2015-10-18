@@ -1,0 +1,6 @@
+<map id="inheritance4c1d2411c5" name="inheritance4c1d2411c5">
+<area shape="rect" id="node1" href="#nipy.labs.group.permutation_test.permutation_test" title="This generic permutation test class contains the calibration method" alt="" coords="5,56,294,82"/>
+<area shape="rect" id="node2" href="#nipy.labs.group.permutation_test.permutation_test_onesample" title="Class derived from the generic permutation_test class." alt="" coords="364,5,728,32"/>
+<area shape="rect" id="node3" href="#nipy.labs.group.permutation_test.permutation_test_onesample_graph" title="Class derived from the generic permutation_test class." alt="" coords="342,56,750,82"/>
+<area shape="rect" id="node4" href="#nipy.labs.group.permutation_test.permutation_test_twosample" title="Class derived from the generic permutation_test class." alt="" coords="364,107,728,133"/>
+</map>
